@@ -7,7 +7,7 @@ I'm a **Database Engineer** and very passionate about Data Analytics
 
 - 🎓 **Education:** I am studying Bachelor of Computer Engineering at Vistula University in Warsaw. 
 
-- 😅 **Fun fact:** Interested in CYBERSPORT, especially CS:GO.
+- 😅 **Fun fact:** Interested in CYBERSPORT, especially CS2.
 
 - 🙂 **Additional:** Python Lover
 
